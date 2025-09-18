@@ -1,1 +1,1 @@
-# AtliQ hospitality Analysis
+# AtliQ Hospitality Analysis
