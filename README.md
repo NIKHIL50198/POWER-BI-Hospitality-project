@@ -5,7 +5,7 @@ This project was the challenge from CODEBASICS.
 I will provide the links for the challenge as well as Live dashboard.
 
 🔗 Links
-Links to the channel: 👆click
+Links to the channel: 👆[click](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 Link to Live dashboard:👆click
 
