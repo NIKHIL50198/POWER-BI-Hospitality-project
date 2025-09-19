@@ -26,6 +26,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 <img width="990" height="504" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/8c25a470-e34a-4183-8e56-3e2f53761d36" />
 
+<img width="905" height="507" alt="Screenshot (543)" src="https://github.com/user-attachments/assets/b7d5b82e-8fad-4f4c-8053-4df0ca549332" />
+
+<img width="997" height="486" alt="Screenshot (541)" src="https://github.com/user-attachments/assets/cac62af2-513f-4c1d-8ef3-ea761037f5f4" />
+
 
 Learnt things from this Project
 1) By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
