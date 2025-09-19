@@ -35,7 +35,7 @@ Learnt things from this Project
 
 1.By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
 
-2. Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. website like page navigation YouTube tutorial )
+2.Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. website like page navigation YouTube tutorial )
 
 3.Tried using color palette and stick with that colors throughout the dashboard
 
