@@ -5,6 +5,7 @@ This project was the challenge from CODEBASICS.
 I will provide the links for the challenge as well as Live dashboard.
 
 🔗 Links
+
 Links to the channel: 👆[click](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 Link to Live dashboard:👆[click](https://app.powerbi.com/links/DkESK5unD-?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
@@ -17,11 +18,11 @@ Their revenue management team had decided to hire a 3rd party service provider t
 Task list
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
-1Create the metrics according to the metric list.
+1.Create the metrics according to the metric list.
 
-2Create a dashboard according to the mock-up provided by stakeholders.
+2.Create a dashboard according to the mock-up provided by stakeholders.
 
-3Create relevant insights that are not provided in the metric list/mock-up dashboard.
+3.Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 Learnt things from this Project
 1) By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
