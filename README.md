@@ -62,3 +62,35 @@ Learnt things from this Project
 ▪ Across cities, Delhi led in occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.
 
 
+Recommendations & Actionable Suggestions
+
+▪ Improve Direct Bookings:
+Encourage customers to book directly through AtliQ’s website or app by offering loyalty points, discounts, or special perks. This will reduce third-party commissions and improve profit margins.
+
+▪ Address Cancellations:
+Introduce flexible yet structured cancellation and refund policies, require advance deposits, and send reminder notifications before check-in to reduce last-minute cancellations.
+
+▪ Boost Marketing in Delhi:
+Despite high ratings and occupancy, Delhi’s revenue is low — this suggests poor visibility. Run targeted digital marketing campaigns, optimize SEO for Delhi properties, and promote them on Google Hotels & OTA platforms.
+
+▪ Enhance Guest Experience in Bangalore:
+Low ratings in Bangalore signal service quality issues. Conduct staff training, improve cleanliness, communication, and amenities, and actively collect guest feedback to improve reputation.
+
+▪ Optimize Pricing Strategy:
+Revisit ADR (Average Daily Rate) and apply dynamic pricing based on demand, seasonality, and competitor pricing to balance occupancy and revenue.
+
+▪ Focus on Underperforming Properties:
+Properties like AtliQ Seasons should be reviewed for location, pricing, or operational inefficiencies. Consider rebranding, renovation, or marketing push to boost performance.
+
+▪ Leverage Data Insights for Forecasting:
+Use the dashboard insights to build predictive models for revenue forecasting and cancellation prediction — helping management take proactive decisions.
+
+▪ Retention through Loyalty Programs:
+Launch an AtliQ Loyalty Program offering reward points, free upgrades, or special discounts to repeat customers to increase retention and direct sales.
+
+▪ Optimize Room Mix:
+Since Elite rooms generate the most bookings but also high cancellations, review their pricing and booking terms. Also, promote Presidential rooms through bundled offers or premium experiences to increase demand.
+
+▪ Enhance Week 24 Learnings:
+Analyse what led to Week 24’s peak revenue (₹139.6M) — whether it was a festival, event, or promotion — and replicate similar strategies in other weeks.
+
