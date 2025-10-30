@@ -32,7 +32,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 
-Learnt things from this Project
+🧠Learnt things from this Project
 
 ▪ By analysing different hotel cancellation policies, understood that most hotels charge zero fee only if a booking is cancelled within three months of the booking date, while cancellations after that are charged 60–90% of the total booking cost.
 
