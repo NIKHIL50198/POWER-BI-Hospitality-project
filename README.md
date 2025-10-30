@@ -74,7 +74,7 @@ Encourage customers to book directly through AtliQ’s website or app by offerin
 Introduce flexible yet structured cancellation and refund policies, require advance deposits, and send reminder notifications before check-in to reduce last-minute cancellations.
 
 ▪ Boost Marketing in Delhi:
-Despite high ratings and occupancy, Delhi’s revenue is low — this suggests poor visibility. Run targeted digital marketing campaigns, optimize SEO for Delhi properties, and promote them on Google Hotels & OTA platforms.
+Despite high ratings and occupancy, Delhi’s revenue is low ,this suggests poor visibility. Run targeted digital marketing campaigns, optimize SEO for Delhi properties, and promote them on Google Hotels & OTA platforms.
 
 ▪ Enhance Guest Experience in Bangalore:
 Low ratings in Bangalore signal service quality issues. Conduct staff training, improve cleanliness, communication, and amenities, and actively collect guest feedback to improve reputation.
@@ -86,7 +86,7 @@ Revisit ADR (Average Daily Rate) and apply dynamic pricing based on demand, seas
 Properties like AtliQ Seasons should be reviewed for location, pricing, or operational inefficiencies. Consider rebranding, renovation, or marketing push to boost performance.
 
 ▪ Leverage Data Insights for Forecasting:
-Use the dashboard insights to build predictive models for revenue forecasting and cancellation prediction — helping management take proactive decisions.
+Use the dashboard insights to build predictive models for revenue forecasting and cancellation prediction , helping management take proactive decisions.
 
 ▪ Retention through Loyalty Programs:
 Launch an AtliQ Loyalty Program offering reward points, free upgrades, or special discounts to repeat customers to increase retention and direct sales.
@@ -95,5 +95,5 @@ Launch an AtliQ Loyalty Program offering reward points, free upgrades, or specia
 Since Elite rooms generate the most bookings but also high cancellations, review their pricing and booking terms. Also, promote Presidential rooms through bundled offers or premium experiences to increase demand.
 
 ▪ Enhance Week 24 Learnings:
-Analyse what led to Week 24’s peak revenue (₹139.6M) — whether it was a festival, event, or promotion — and replicate similar strategies in other weeks.
+Analyse what led to Week 24’s peak revenue (₹139.6M) , whether it was a festival, event, or promotion  and replicate similar strategies in other weeks.
 
