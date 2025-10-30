@@ -34,18 +34,31 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 Learnt things from this Project
 
 ▪ By analysing different hotel cancellation policies, understood that most hotels charge zero fee only if a booking is cancelled within three months of the booking date, while cancellations after that are charged 60–90% of the total booking cost.
+
 ▪ Learnt to use Bookmarks and Selection Pane in Power BI for achieving page navigation and clear filter buttons, giving the dashboard a smooth, website-like navigation experience.
+
 ▪ Used a consistent color palette throughout the dashboard for a clean, cohesive, and professional visual experience.
+
 ▪ AtliQ earned ₹1.7 Billion in total revenue during the analysis period, with an Average Daily Rate (ADR) of ₹12.7K, but the occupancy rate stood at only 57.9%, meaning nearly half the rooms remained unsold on average.
+
 ▪ The realisation rate (actual revenue collected vs. potential revenue) was 70.1%, indicating a significant gap due to cancellations and no-shows.
+
 ▪ Mumbai emerged as the top-performing city with ₹669M revenue, followed by Bangalore, Hyderabad, and Delhi, while Delhi recorded the lowest revenue (₹294M) despite strong guest ratings (4.25) and high occupancy, suggesting low visibility or poor marketing efforts.
+
 ▪ Bangalore properties generated high revenue but had very low average ratings (2.36), indicating potential issues with guest satisfaction that could harm brand reputation in the long run.
+
 ▪ AtliQ Exotica outperformed all properties with ₹320M revenue, 3.62 rating, 57% occupancy, and a 24.4% cancellation rate.
+
 ▪ AtliQ Bay achieved the highest occupancy (66%), while Week 24 recorded the highest weekly revenue (₹139.6M).
+
 ▪ AtliQ Seasons contributed only ₹66M in revenue, making it one of the least performing properties.
+
 ▪ The company lost nearly ₹299M in revenue due to a 24.8% cancellation rate, consistent across major cities like Mumbai, Bangalore, Hyderabad, and Delhi.
+
 ▪ Elite-type rooms recorded the highest bookings and revenue but also showed the highest cancellation rate, while Presidential rooms underperformed despite being premium offerings.
+
 ▪ Most bookings and revenue came through third-party platforms such as Makemytrip and Others, whereas direct bookings were very low — leading to higher commission costs and less control over customer relationships.
+
 ▪ Across cities, Delhi led in occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.
 
-⚫Elite type rooms has the most booking and as well higher cancellation rate
+
