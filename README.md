@@ -65,7 +65,7 @@ Learnt things from this Project
 
 
 
-Recommendations & Actionable Suggestions
+🔍Recommendations & Actionable Suggestions
 
 ▪ Improve Direct Bookings:
 Encourage customers to book directly through AtliQ’s website or app by offering loyalty points, discounts, or special perks. This will reduce third-party commissions and improve profit margins.
