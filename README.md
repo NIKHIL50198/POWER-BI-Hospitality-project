@@ -31,6 +31,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 <img width="997" height="486" alt="Screenshot (541)" src="https://github.com/user-attachments/assets/cac62af2-513f-4c1d-8ef3-ea761037f5f4" />
 
 
+
 Learnt things from this Project
 
 ▪ By analysing different hotel cancellation policies, understood that most hotels charge zero fee only if a booking is cancelled within three months of the booking date, while cancellations after that are charged 60–90% of the total booking cost.
@@ -60,6 +61,8 @@ Learnt things from this Project
 ▪ Most bookings and revenue came through third-party platforms such as Makemytrip and Others, whereas direct bookings were very low — leading to higher commission costs and less control over customer relationships.
 
 ▪ Across cities, Delhi led in occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.
+
+
 
 
 Recommendations & Actionable Suggestions
